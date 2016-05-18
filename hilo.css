@@ -1,0 +1,17 @@
+.header {
+  text-align: center;
+}
+
+.scoreboard {
+  display: flex;
+  justify-content: space-around;
+}
+
+.spacearound {
+  display: flex;
+  justify-content: center;
+}
+
+.inputField {
+  margin-left: 40%
+}
